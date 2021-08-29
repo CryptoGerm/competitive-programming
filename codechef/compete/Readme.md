@@ -1,5 +1,5 @@
 # CodeChef Rating
-### CodeChef Username : [CryptoGerm]((https://www.codechef.com/users/cryptogerm))
+### CodeChef Username : [CryptoGerm](https://www.codechef.com/users/cryptogerm)
 **Current Rating** : 1552   |   :star: :star:   
 (Highest Rating 1552)
 

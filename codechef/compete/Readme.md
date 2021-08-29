@@ -1,11 +1,11 @@
 # CodeChef Rating
 ### CodeChef Username : [CryptoGerm]((https://www.codechef.com/users/cryptogerm))
-**Current Rating** : 1552   |   :star: :star: 
+**Current Rating** : 1552   |   :star: :star:   
 (Highest Rating 1552)
 
 ---
 	
-**Global Rank** :  [98602](https://www.codechef.com/ratings/all) 
+**Global Rank** :  [98602](https://www.codechef.com/ratings/all)   
 **Country Rank** : [82002](https://www.codechef.com/ratings/all?filterBy=Country%3DIndia) 
 
 -----

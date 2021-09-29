@@ -26,6 +26,9 @@
     Sample Output 2 :
     false
 */
+#include <iostream>
+using namespace std;
+
 bool checkMember(int n){
 	int first=1, second=1, num;
     if (n==1) {
